@@ -1,4 +1,4 @@
-# Voice Deepfake Detection – Take-Home Assessment (Momenta)
+# Voice Deepfake Detection – 
 
 ## Overview
 

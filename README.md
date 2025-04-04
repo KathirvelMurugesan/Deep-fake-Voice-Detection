@@ -1,4 +1,4 @@
-# Voice Deepfake Detection – 
+# Voice Deepfake Detection 
 
 ## Overview
 

@@ -47,7 +47,7 @@ This project aims to detect voice deepfakes using machine learning. Audio deepfa
 - Test Inference Example:
   - Input: Sample fake audio
   - Output: `Predicted Label: FAKE`
-  - Confidence: `REAL=0.1123, FAKE=0.8877`
+  - Confidence Scores: 'REAL=0.7310, FAKE=0.2690'
 
 ---
 
